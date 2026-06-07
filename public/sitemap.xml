@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://khgroup.online/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://khgroup.online/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://khgroup.online/projects</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://khgroup.online/real-estate</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://khgroup.online/industrial</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://khgroup.online/agriculture</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://khgroup.online/education</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://khgroup.online/news</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://khgroup.online/brochure</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://khgroup.online/careers</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://khgroup.online/contact</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
